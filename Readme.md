@@ -4,7 +4,7 @@
 
 A python notebook to merge data from branch chambers located in a dought-exposed and experimentally irrigated plot in Yatir forest, with gas concentrations of H<sub>2</sub>O and CO<sub>2</sub> measured using the LI-COR LI-7000 and LI-840a infrared gas analysers combined into a novel gas exchange measurement system. Data is gathered as follows:
 
-1. Gas concentrations of CO2 and H2O: LI-COR LI-7000 infrared gas analyser (IRGA)
+1. Gas concentrations of CO<sub>2</sub> and H<sub>2</sub>O: LI-COR LI-7000 infrared gas analyser (IRGA)
 2. Auxiliary data: All collected into a Campbell CR1000 datalogger
 
 There are 2 notebooks in this project, and the data is organised as follows:
