@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5007008.svg)](https://doi.org/10.5281/zenodo.5007008)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4284486.svg)](https://doi.org/10.5281/zenodo.4284486)
 
 # Branch-chamber-fluxes
 
@@ -25,10 +25,10 @@ The following python packages are required to read the FLIR files:
 
 ## How to Cite
 
-Jonathan D. Muller, Itay Oz. (2021). Branch-chamber-fluxes: Tool to calculate gas fluxes from branch chambers.  DOI: 10.5281/zenodo.5007008  (URL:
-<https://doi.org/10.5281/zenodo.5007008>), Python notebook
+Jonathan D. Muller, Itay Oz. (2021). Branch-chamber-fluxes: Tool to calculate gas fluxes from branch chambers.  DOI: 10.5281/zenodo.4284486  (URL:
+<https://doi.org/10.5281/zenodo.4284486>), Python notebook
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5007008.svg)](https://doi.org/10.5281/zenodo.5007008)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4284486.svg)](https://doi.org/10.5281/zenodo.4284486)
 
 ## License
 
